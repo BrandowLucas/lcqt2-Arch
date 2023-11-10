@@ -1,3 +1,9 @@
+# Import GPG keys
+
+```
+sudo pacman-key --lsign-key 1BA91B820FEAB29A
+```
+
 # Add the repository:
 
 ```
