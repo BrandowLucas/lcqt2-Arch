@@ -1,1 +1,0 @@
-# lcqt2-Arch
