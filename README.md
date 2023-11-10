@@ -1,4 +1,4 @@
-# How to add the repo:
+# Add the repository:
 
 ```
 sudo nano /etc/pacman.conf
@@ -9,4 +9,10 @@ sudo nano /etc/pacman.conf
 ```
 [lcqt2]
 Server = https://brandowlucas.github.io/lcqt2-Arch/
+```
+
+# Install lcqt2
+
+```
+sudo pacman -Sy lunar-client-qt2
 ```
