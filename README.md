@@ -1,4 +1,4 @@
-# Import GPG keys
+# Locally sign imported GPG keys
 
 ```
 sudo pacman-key --lsign-key 1BA91B820FEAB29A
