@@ -1,3 +1,9 @@
+# Import GPG keys
+
+```
+sudo pacman-key --recv-key 1BA91B820FEAB29A --keyserver keyserver.ubuntu.com 
+```
+
 # Locally sign imported GPG keys
 
 ```
